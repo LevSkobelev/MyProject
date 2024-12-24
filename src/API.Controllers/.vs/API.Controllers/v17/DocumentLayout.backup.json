@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\blazorapp-empty1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|solutionrelative:blazorapp-empty1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\blazorapp-empty1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|solutionrelative:blazorapp-empty1\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\blazorapp-empty1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|solutionrelative:blazorapp-empty1\\wwwroot\\css\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\blazorapp-empty1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|solutionrelative:blazorapp-empty1\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\blazorapp-empty1\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{257B2EF0-4B27-40F3-B458-7E8D98AB3081}|BlazorApp-empty1\\BlazorApp-empty1.csproj|solutionrelative:blazorapp-empty1\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\controllers\\menuitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\mod\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\mod\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\mod\\reservationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +53,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\controllers\\tablescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\mod\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\mod\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\mod\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|solutionrelative:api.controllers\\mod\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F47AA9E-CC73-4761-BF86-F886CC4AD48E}|API.Controllers\\API.Controllers.csproj|c:\\users\\user\\documents\\github\\myproject\\src\\api.controllers\\api.controllers\\migrations\\reservationcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -62,37 +82,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Program.cs",
-              "RelativeDocumentMoniker": "API.Controllers\\Program.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Program.cs",
-              "RelativeToolTip": "API.Controllers\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T10:13:18.191Z",
+              "DocumentIndex": 2,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\wwwroot\\css\\app.css",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\wwwroot\\css\\app.css",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\wwwroot\\css\\app.css",
+              "RelativeToolTip": "BlazorApp-empty1\\wwwroot\\css\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-24T12:23:12.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TablesController.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Controllers\\TablesController.cs",
-              "RelativeDocumentMoniker": "API.Controllers\\Controllers\\TablesController.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Controllers\\TablesController.cs",
-              "RelativeToolTip": "API.Controllers\\Controllers\\TablesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T08:55:48.36Z",
+              "DocumentIndex": 1,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\Pages\\Index.razor",
+              "RelativeToolTip": "BlazorApp-empty1\\Pages\\Index.razor",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAswBsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T12:09:19.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\wwwroot\\index.html",
+              "RelativeToolTip": "BlazorApp-empty1\\wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-12-24T12:18:45.272Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\_Imports.razor",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\_Imports.razor",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\_Imports.razor",
+              "RelativeToolTip": "BlazorApp-empty1\\_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T12:07:09.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp-empty1\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\BlazorApp-empty1\\Program.cs",
+              "RelativeToolTip": "BlazorApp-empty1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T12:06:38.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ReservationContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Mod\\ReservationContext.cs",
               "RelativeDocumentMoniker": "API.Controllers\\Mod\\ReservationContext.cs",
@@ -100,12 +159,11 @@
               "RelativeToolTip": "API.Controllers\\Mod\\ReservationContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T09:25:09.373Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T09:25:09.373Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "CustomerController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Controllers\\CustomerController.cs",
               "RelativeDocumentMoniker": "API.Controllers\\Controllers\\CustomerController.cs",
@@ -113,25 +171,24 @@
               "RelativeToolTip": "API.Controllers\\Controllers\\CustomerController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T07:11:14.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T07:11:14.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "MenuItemController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Controllers\\MenuItemController.cs",
               "RelativeDocumentMoniker": "API.Controllers\\Controllers\\MenuItemController.cs",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Controllers\\MenuItemController.cs",
               "RelativeToolTip": "API.Controllers\\Controllers\\MenuItemController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-24T09:55:43.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "OrderItemsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Controllers\\OrderItemsController.cs",
               "RelativeDocumentMoniker": "API.Controllers\\Controllers\\OrderItemsController.cs",
@@ -139,12 +196,11 @@
               "RelativeToolTip": "API.Controllers\\Controllers\\OrderItemsController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T09:14:15.484Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T09:14:15.484Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Mod\\Customer.cs",
               "RelativeDocumentMoniker": "API.Controllers\\Mod\\Customer.cs",
@@ -152,12 +208,11 @@
               "RelativeToolTip": "API.Controllers\\Mod\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T09:28:24.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T09:28:24.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Reservation.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Mod\\Reservation.cs",
               "RelativeDocumentMoniker": "API.Controllers\\Mod\\Reservation.cs",
@@ -165,25 +220,37 @@
               "RelativeToolTip": "API.Controllers\\Mod\\Reservation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T10:58:43.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-24T10:58:43.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\appsettings.json",
               "RelativeDocumentMoniker": "API.Controllers\\appsettings.json",
               "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\appsettings.json",
               "RelativeToolTip": "API.Controllers\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-12-24T10:55:17.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Mod\\MenuItem.cs",
+              "RelativeDocumentMoniker": "API.Controllers\\Mod\\MenuItem.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Mod\\MenuItem.cs",
+              "RelativeToolTip": "API.Controllers\\Mod\\MenuItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:32:14.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ReservationsController.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Controllers\\ReservationsController.cs",
               "RelativeDocumentMoniker": "API.Controllers\\Controllers\\ReservationsController.cs",
@@ -196,19 +263,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "MenuItem.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Mod\\MenuItem.cs",
-              "RelativeDocumentMoniker": "API.Controllers\\Mod\\MenuItem.cs",
-              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Mod\\MenuItem.cs",
-              "RelativeToolTip": "API.Controllers\\Mod\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "TablesController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Controllers\\TablesController.cs",
+              "RelativeDocumentMoniker": "API.Controllers\\Controllers\\TablesController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Controllers\\TablesController.cs",
+              "RelativeToolTip": "API.Controllers\\Controllers\\TablesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-24T09:32:14.01Z"
+              "WhenOpened": "2024-12-24T08:55:48.36Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Program.cs",
+              "RelativeDocumentMoniker": "API.Controllers\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Program.cs",
+              "RelativeToolTip": "API.Controllers\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:13:18.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "ReservationContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Migrations\\ReservationContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "API.Controllers\\Migrations\\ReservationContextModelSnapshot.cs",
@@ -220,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 17,
               "Title": "20241224093849_MigratonName.cs",
               "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\MyProject\\src\\API.Controllers\\API.Controllers\\Migrations\\20241224093849_MigratonName.cs",
               "RelativeDocumentMoniker": "API.Controllers\\Migrations\\20241224093849_MigratonName.cs",

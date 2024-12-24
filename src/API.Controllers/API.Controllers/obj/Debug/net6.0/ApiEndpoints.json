@@ -1,76 +1,12 @@
 [
   {
-    "ContainingType": "API.Controllers.ReservationController",
-    "Method": "Get",
-    "RelativePath": "Reservation",
+    "ContainingType": "API.Controllers.Controllers.MenuItemController",
+    "Method": "GetAll",
+    "RelativePath": "api/MenuItem",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [],
-    "ReturnTypes": [
-      {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[API.Controllers.TableReservation, API.Controllers, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ],
-    "EndpointName": "GetReservations"
-  },
-  {
-    "ContainingType": "API.Controllers.ReservationController",
-    "Method": "BookTable",
-    "RelativePath": "Reservation/book",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "reservation",
-        "Type": "API.Controllers.TableReservation",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API.Controllers.ReservationController",
-    "Method": "CancelReservation",
-    "RelativePath": "Reservation/cancel/{id}",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "API.Controllers.ReservationController",
-    "Method": "UpdateReservation",
-    "RelativePath": "Reservation/update/{id}",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "updatedReservation",
-        "Type": "API.Controllers.TableReservation",
-        "IsRequired": true
-      }
-    ],
     "ReturnTypes": []
   }
 ]

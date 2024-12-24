@@ -1,3 +1,6 @@
+using API.Controllers.Mod;
+using Microsoft.EntityFrameworkCore;
+
 namespace API.Controllers
 {
     public class Program
@@ -5,7 +8,8 @@ namespace API.Controllers
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-
+            builder.Services.AddDbContext<ReservationContext>(
+                options => options.UseSqlServer(builder.Configuration["ConnectionString"]));
             // Add services to the container.
 
             builder.Services.AddControllers();

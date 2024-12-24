@@ -17,7 +17,27 @@ namespace API.Controllers.Controllers
         [HttpGet]
         public IActionResult GetAll()
         {
-            List<MenuItem> menuItems = Context.MenuItem.ToList();
+            List<MenuItem> menuItems = Context.MenuItems.ToList();
+            return Ok();
+        }
+        [HttpGet("{id}")]
+        public IActionResult Get(int id)
+        {
+            return Ok();
+        }
+        [HttpPost]
+        public IActionResult Add(MenuItem menuItem)
+        {
+            return Ok();
+        }
+        [HttpPut]
+        public IActionResult Update(MenuItem menuItem)
+        {
+            return Ok();
+        }
+        [HttpDelete]
+        public IActionResult Delete(int id)
+        {
             return Ok();
         }
 

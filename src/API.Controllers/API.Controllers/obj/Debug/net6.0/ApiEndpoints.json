@@ -8,5 +8,69 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.Controllers.MenuItemController",
+    "Method": "Add",
+    "RelativePath": "api/MenuItem",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuItem",
+        "Type": "API.Controllers.Mod.MenuItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.Controllers.MenuItemController",
+    "Method": "Update",
+    "RelativePath": "api/MenuItem",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "menuItem",
+        "Type": "API.Controllers.Mod.MenuItem",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.Controllers.MenuItemController",
+    "Method": "Delete",
+    "RelativePath": "api/MenuItem",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "API.Controllers.Controllers.MenuItemController",
+    "Method": "Get",
+    "RelativePath": "api/MenuItem/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]
